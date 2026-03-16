@@ -1,0 +1,14 @@
+{
+  "name": "Philadelphia Area",
+  "code": "KPHL",
+  "description": "Greater Philadelphia",
+  "population": 5700000,
+  "initialViewState": {
+    "zoom": 14,
+    "latitude": 39.95245102699768,
+    "longitude": -75.1635826269128,
+    "bearing": 0
+  },
+  "creator": "DanielD1909",
+  "version": "1.0.0"
+}
